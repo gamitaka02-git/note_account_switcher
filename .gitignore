@@ -1,0 +1,11 @@
+.DS_Store
+
+# macOS build output
+mac/.build/
+mac/noteアカウントスイッチャー.app/
+
+# Windows build output
+win/noteアカウントスイッチャー.exe
+
+# Distribution bundles are published as GitHub Release assets.
+release/
